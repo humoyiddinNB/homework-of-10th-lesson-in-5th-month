@@ -1,0 +1,389 @@
+[
+    {
+        "id": 3,
+        "model": "Model S",
+        "make": "Tesla",
+        "color": "Red",
+        "price": "60000.00",
+        "make_year": 2021,
+        "qanchadanberi": "3"
+    },
+    {
+        "id": 4,
+        "model": "Civic",
+        "make": "Honda",
+        "color": "Blue",
+        "price": "22000.00",
+        "make_year": 2018,
+        "qanchadanberi": "6"
+    },
+    {
+        "id": 5,
+        "model": "Mustang",
+        "make": "Ford",
+        "color": "Yellow",
+        "price": "55000.00",
+        "make_year": 2022,
+        "qanchadanberi": "2"
+    },
+    {
+        "id": 8,
+        "model": "A4",
+        "make": "Audi",
+        "color": "Silver",
+        "price": "35000.00",
+        "make_year": 2021,
+        "qanchadanberi": "3"
+    },
+    {
+        "id": 9,
+        "model": "X5",
+        "make": "BMW",
+        "color": "Black",
+        "price": "70000.00",
+        "make_year": 2023,
+        "qanchadanberi": "1"
+    },
+    {
+        "id": 10,
+        "model": "911",
+        "make": "Porsche",
+        "color": "Red",
+        "price": "120000.00",
+        "make_year": 2022,
+        "qanchadanberi": "2"
+    },
+    {
+        "id": 11,
+        "model": "Rav4",
+        "make": "Toyota",
+        "color": "Blue",
+        "price": "26000.00",
+        "make_year": 2020,
+        "qanchadanberi": "4"
+    },
+    {
+        "id": 12,
+        "model": "Explorer",
+        "make": "Ford",
+        "color": "Black",
+        "price": "40000.00",
+        "make_year": 2019,
+        "qanchadanberi": "5"
+    },
+    {
+        "id": 13,
+        "model": "CX-5",
+        "make": "Mazda",
+        "color": "White",
+        "price": "27000.00",
+        "make_year": 2021,
+        "qanchadanberi": "3"
+    },
+    {
+        "id": 15,
+        "model": "Tucson",
+        "make": "Hyundai",
+        "color": "Silver",
+        "price": "25000.00",
+        "make_year": 2022,
+        "qanchadanberi": "2"
+    },
+    {
+        "id": 18,
+        "model": "Passat",
+        "make": "Volkswagen",
+        "color": "Blue",
+        "price": "29000.00",
+        "make_year": 2021,
+        "qanchadanberi": "3"
+    },
+    {
+        "id": 19,
+        "model": "Fusion",
+        "make": "Ford",
+        "color": "White",
+        "price": "26000.00",
+        "make_year": 2018,
+        "qanchadanberi": "6"
+    },
+    {
+        "id": 20,
+        "model": "Leaf",
+        "make": "Nissan",
+        "color": "Red",
+        "price": "30000.00",
+        "make_year": 2023,
+        "qanchadanberi": "1"
+    },
+    {
+        "id": 23,
+        "model": "Mustang",
+        "make": "Ford",
+        "color": "Red",
+        "price": "45000.00",
+        "make_year": 1965,
+        "qanchadanberi": "59"
+    },
+    {
+        "id": 24,
+        "model": "Bel Air",
+        "make": "Chevrolet",
+        "color": "White",
+        "price": "38000.00",
+        "make_year": 1957,
+        "qanchadanberi": "67"
+    },
+    {
+        "id": 25,
+        "model": "Continental",
+        "make": "Lincoln",
+        "color": "Black",
+        "price": "50000.00",
+        "make_year": 1961,
+        "qanchadanberi": "63"
+    },
+    {
+        "id": 26,
+        "model": "Corvette C1",
+        "make": "Chevrolet",
+        "color": "Yellow",
+        "price": "120000.00",
+        "make_year": 1953,
+        "qanchadanberi": "71"
+    },
+    {
+        "id": 27,
+        "model": "Silver Cloud",
+        "make": "Rolls-Royce",
+        "color": "Silver",
+        "price": "200000.00",
+        "make_year": 1955,
+        "qanchadanberi": "69"
+    },
+    {
+        "id": 28,
+        "model": "356",
+        "make": "Porsche",
+        "color": "Green",
+        "price": "220000.00",
+        "make_year": 1948,
+        "qanchadanberi": "76"
+    },
+    {
+        "id": 30,
+        "model": "Thunderbird",
+        "make": "Ford",
+        "color": "White",
+        "price": "35000.00",
+        "make_year": 1955,
+        "qanchadanberi": "69"
+    },
+    {
+        "id": 32,
+        "model": "Fiat 500",
+        "make": "Fiat",
+        "color": "Yellow",
+        "price": "14000.00",
+        "make_year": 1957,
+        "qanchadanberi": "67"
+    },
+    {
+        "id": 33,
+        "model": "2000 GT",
+        "make": "Toyota",
+        "color": "White",
+        "price": "900000.00",
+        "make_year": 1967,
+        "qanchadanberi": "57"
+    },
+    {
+        "id": 34,
+        "model": "300SL",
+        "make": "Mercedes-Benz",
+        "color": "Silver",
+        "price": "1100000.00",
+        "make_year": 1954,
+        "qanchadanberi": "70"
+    },
+    {
+        "id": 36,
+        "model": "Hudson Hornet",
+        "make": "Hudson",
+        "color": "Blue",
+        "price": "75000.00",
+        "make_year": 1951,
+        "qanchadanberi": "73"
+    },
+    {
+        "id": 38,
+        "model": "Duesenberg Model J",
+        "make": "Duesenberg",
+        "color": "Black",
+        "price": "1200000.00",
+        "make_year": 1930,
+        "qanchadanberi": "94"
+    },
+    {
+        "id": 39,
+        "model": "Packard Eight",
+        "make": "Packard",
+        "color": "Green",
+        "price": "90000.00",
+        "make_year": 1934,
+        "qanchadanberi": "90"
+    },
+    {
+        "id": 40,
+        "model": "Charger R/T",
+        "make": "Dodge",
+        "color": "Orange",
+        "price": "95000.00",
+        "make_year": 1969,
+        "qanchadanberi": "55"
+    },
+    {
+        "id": 41,
+        "model": "Superbird",
+        "make": "Plymouth",
+        "color": "Blue",
+        "price": "150000.00",
+        "make_year": 1970,
+        "qanchadanberi": "54"
+    },
+    {
+        "id": 42,
+        "model": "Cybertruck",
+        "make": "Tesla",
+        "color": "Silver",
+        "price": "80000.00",
+        "make_year": 2024,
+        "qanchadanberi": "0"
+    },
+    {
+        "id": 43,
+        "model": "Roadmaster",
+        "make": "Buick",
+        "color": "Maroon",
+        "price": "45000.00",
+        "make_year": 1949,
+        "qanchadanberi": "75"
+    },
+    {
+        "id": 44,
+        "model": "iX",
+        "make": "BMW",
+        "color": "White",
+        "price": "85000.00",
+        "make_year": 2023,
+        "qanchadanberi": "1"
+    },
+    {
+        "id": 46,
+        "model": "Lucid Air",
+        "make": "Lucid Motors",
+        "color": "Black",
+        "price": "125000.00",
+        "make_year": 2023,
+        "qanchadanberi": "1"
+    },
+    {
+        "id": 48,
+        "model": "F-150 Lightning",
+        "make": "Ford",
+        "color": "Gray",
+        "price": "70000.00",
+        "make_year": 2022,
+        "qanchadanberi": "2"
+    },
+    {
+        "id": 51,
+        "model": "Firebird",
+        "make": "Pontiac",
+        "color": "Red",
+        "price": "78000.00",
+        "make_year": 1968,
+        "qanchadanberi": "56"
+    },
+    {
+        "id": 52,
+        "model": "Grand Prix",
+        "make": "Pontiac",
+        "color": "Blue",
+        "price": "50000.00",
+        "make_year": 1962,
+        "qanchadanberi": "62"
+    },
+    {
+        "id": 53,
+        "model": "Mercedes EQS",
+        "make": "Mercedes-Benz",
+        "color": "Silver",
+        "price": "120000.00",
+        "make_year": 2022,
+        "qanchadanberi": "2"
+    },
+    {
+        "id": 55,
+        "model": "Rivian R1T",
+        "make": "Rivian",
+        "color": "Green",
+        "price": "88000.00",
+        "make_year": 2023,
+        "qanchadanberi": "1"
+    },
+    {
+        "id": 56,
+        "model": "Speedster",
+        "make": "Auburn",
+        "color": "Black",
+        "price": "240000.00",
+        "make_year": 1935,
+        "qanchadanberi": "89"
+    },
+    {
+        "id": 57,
+        "model": "Type 57",
+        "make": "Bugatti",
+        "color": "Blue",
+        "price": "1500000.00",
+        "make_year": 1937,
+        "qanchadanberi": "87"
+    },
+    {
+        "id": 58,
+        "model": "Torino GT",
+        "make": "Ford",
+        "color": "Green",
+        "price": "88000.00",
+        "make_year": 1970,
+        "qanchadanberi": "54"
+    },
+    {
+        "id": 59,
+        "model": "Porsche Taycan",
+        "make": "Porsche",
+        "color": "White",
+        "price": "110000.00",
+        "make_year": 2023,
+        "qanchadanberi": "1"
+    },
+    {
+        "id": 61,
+        "model": "Tesla Roadster",
+        "make": "Tesla",
+        "color": "Blue",
+        "price": "200000.00",
+        "make_year": 2024,
+        "qanchadanberi": "0"
+    },
+    {
+        "id": 2,
+        "model": "Accord",
+        "make": "Honda",
+        "color": "qora",
+        "price": "23000.00",
+        "make_year": 2019,
+        "qanchadanberi": "5"
+    }
+]
